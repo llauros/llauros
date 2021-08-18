@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   
   #### Meus contatos:
   <div>
-  <a href="mailto:lucaslauro@live.com" target="_blank"> <img align="center" alt="ll-Js" height="28" width="150" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+  <a href="mailto:lucaslauro@live.com" target="_blank"> <img align="center" alt="ll-Js" height="28" width="154" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
   <a href="https://www.linkedin.com/in/lucas-l-3a576489/" target="_blank"> <img align="center" alt="ll-Js" height="28" width="108" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </div>
     
