@@ -1,4 +1,4 @@
- <center><h1>Olá! É um prazer receber você por aqui. 👋</h1></center>
+<h1 style="text-align: center;">Olá! É um prazer receber você por aqui. 👋</h1>
 
 Eu sou **Lucas**, constante estudante de **tecnologia da informação**. 📚
 Atualmente, estou **estudando** desenvolvimento **fullstack** (com um gosto sem igual pelo **front-end** mas, não nego minha maior afeição que é o **back-end**). 🖥 
