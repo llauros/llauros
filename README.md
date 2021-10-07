@@ -1,16 +1,12 @@
+<div>
 <h1 align="center">Olá! É um prazer receber você por aqui. 👋<h1>
- <p>
-Eu sou **Lucas**, constante estudante de **tecnologia da informação**. 📚<br>
-Atualmente, **estudando** **desenvolvimento fullstack** (tanto **front-end** com JavaScript, como **back-end** com PHP). 🖥 <br>
-Aprimorando diariamente os **conhecimentos** em HTML, CSS, JavaScript, PHP, SQL, GIT, POO e MVC. 💻
-</p>
-Things I like to do:
+</div>
 
--   🖥  Web Applications
--   🎨  Interfaces
--   📱  Applications
+Eu sou **Lucas**, constante estudante de **tecnologia da informação**. 📚
+Atualmente, estou **estudando** desenvolvimento **fullstack** (com um gosto sem igual pelo **front-end** mas, não nego minha maior afeição que é o **back-end**). 🖥 
+Aprimorando diariamente os **conhecimentos** em Java, Node, SQL, POO, REST API e MVC. 💻
 
-- 📚 I’m currently learning JavaScript, Java and UX/UI Design
+Não deixe de dar uma olha em meu <a href="https://llauros.github.io/lucaslauroportfolio/" target="_blank">curriculo</a> **:)**
  
 <h2 align="center">Skills</h2>
 <div align="center">
@@ -22,8 +18,8 @@ Things I like to do:
 
 <div align="center">
  <h2>Meus contatos</h2>
-  <a href="https://www.linkedin.com/in/lucasv-cruz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href = "mailto:lucasvcruz.dev@gmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lucaslauro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href = "mailto:lucaslauro@live.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 </div> 
 
 ## 
