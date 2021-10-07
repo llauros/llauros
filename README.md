@@ -1,25 +1,36 @@
-### Hi there 👋
+<h1 align="center">Olá! É um prazer receber você por aqui. 👋<h1>
+ 
+<h3>My name is Lucas Lauro, I'm from Brazil. I am a Front-end programmer and a student of Back-end programming.</h3>
 
-<!--
-**llauros/llauros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Things I like to do:
 
-Here are some ideas to get you started:
+-   🖥  Web Applications
+-   🎨  Interfaces
+-   📱  Applications
 
-- 🌱 I’m currently learning Java
-- ⚡ Fun fact: ...
--->
+- 📚 I’m currently learning JavaScript, Java and UX/UI Design
+ 
+<h2 align="center">Skills</h2>
+<div align="center">
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></img><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></img><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"></img>
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></img><img bgcolor="red" align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></img>
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></img>
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></img><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"></img><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"></img><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></img>
+</div>
 
-  <div>
-  <a href="https://github.com/llauros">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=llauros&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llauros&layout=compact&langs_count=7&theme=highcontrast"/>
-  </div>
-  
-  #### Meus contatos:
-  <div>
-  <a href="mailto:lucaslauro@live.com" target="_blank"> <img align="center" alt="ll-Js" height="28" width="154" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
-  <a href="https://www.linkedin.com/in/lucas-l-3a576489/" target="_blank"> <img align="center" alt="ll-Js" height="28" width="108" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </div>
+<div align="center">
+ <h2>Meus contatos</h2>
+  <a href="https://www.linkedin.com/in/lucasv-cruz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href = "mailto:lucasvcruz.dev@gmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+</div> 
+
+## 
+
+<div align="center">
+  <a href="https://github.com/LucasViniciusC">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=llauros&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llauros&layout=compact&langs_count=7&theme=react"/>
+</div>
     
 ![Snake animation](https://github.com/llauros/llauros/blob/output/github-contribution-grid-snake.svg)
    
