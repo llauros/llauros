@@ -1,6 +1,8 @@
 <h1 align="center">Olá! É um prazer receber você por aqui. 👋<h1>
  
-<h3>My name is Lucas Lauro, I'm from Brazil. I am a Front-end programmer and a student of Back-end programming.</h3>
+Eu sou **Lucas**, constante estudante de **tecnologia da informação**. 📚<br>
+Atualmente, **estudando** **desenvolvimento fullstack** (tanto **front-end** com JavaScript, como **back-end** com PHP). 🖥 <br>
+Aprimorando diariamente os **conhecimentos** em HTML, CSS, JavaScript, PHP, SQL, GIT, POO e MVC. 💻
 
 Things I like to do:
 
