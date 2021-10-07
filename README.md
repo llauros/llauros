@@ -1,6 +1,4 @@
-<div>
-<h1 align="center">Olá! É um prazer receber você por aqui. 👋<h1>
-</div>
+ <center><h1>Olá! É um prazer receber você por aqui. 👋</h1></center>
 
 Eu sou **Lucas**, constante estudante de **tecnologia da informação**. 📚
 Atualmente, estou **estudando** desenvolvimento **fullstack** (com um gosto sem igual pelo **front-end** mas, não nego minha maior afeição que é o **back-end**). 🖥 
@@ -22,7 +20,7 @@ Não deixe de dar uma olha em meu <a href="https://llauros.github.io/lucaslaurop
  <a href = "mailto:lucaslauro@live.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 </div> 
 
-## 
+##
 
 <div align="center">
   <a href="https://github.com/LucasViniciusC">
