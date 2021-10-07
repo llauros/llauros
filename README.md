@@ -18,13 +18,13 @@ Não deixe de dar uma olha em meu <a href="https://llauros.github.io/lucaslaurop
  <h2>Meus contatos</h2>
   <a href="https://www.linkedin.com/in/lucaslauro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
  <a href = "mailto:lucaslauro@live.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-</div> 
+</div>
 
+## 
 <div align="center">
   <a href="https://github.com/llauros">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=llauros&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llauros&layout=compact&langs_count=7&theme=react"/>
 </div>
-    
 ![Snake animation](https://github.com/llauros/llauros/blob/output/github-contribution-grid-snake.svg)
    
