@@ -4,7 +4,7 @@ Eu sou **Lucas**, constante estudante de **tecnologia da informação**. 📚
 Atualmente, estou **estudando** desenvolvimento **fullstack** (com um gosto sem igual pelo **front-end** mas, não nego minha maior afeição que é o **back-end**). 🖥 
 Aprimorando diariamente os **conhecimentos** em Java, Node, SQL, POO, REST API e MVC. 💻
 
-Não deixe de dar uma olha em meu <a href="https://llauros.github.io/lucaslauroportfolio/" target="_blank">curriculo</a> **:)**
+Não deixe de dar uma olha em meu <a href="https://llauros.github.io/lucaslauropersonalportfolio/" target="_blank">curriculo</a> **:)**
  
 <h2 align="center">Skills</h2>
 <div align="center">
